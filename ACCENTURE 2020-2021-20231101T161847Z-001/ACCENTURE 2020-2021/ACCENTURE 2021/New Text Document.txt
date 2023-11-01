@@ -1,0 +1,103 @@
+
+1---> MS Office---> 3-4---> repeating
+2---> Networking--> 2-3---> repeating
+
+MS Office ----> 3 to 4 Question will be shortcuts
+
+Basic Shortcut Keys
+-------------------
+
+Alf+F ------> File Menu
+Alf+E ------> Edit Menu
+F1 ---------> Help
+Ctrl+A -----> Select all the text
+Ctrl+X -----> Cut
+Shift+Del---> Cut
+Ctrl+C -----> Copy
+Ctrl+Ins----> Copy
+Ctrl+V -----> Paste
+Shft+Ins----> Paste
+Home -------> beginning of the current line
+Ctrl+Home---> beginning of the document
+End --------> end of the current line
+Shift+Home--> Highlight from current position to beginning of the line
+Shift+End---> Highlight from current position to end of the line
+Ctrl+Left---> Left one word
+Ctrl+Right--> Right one word
+
+
+WINKEYS
+
+WINKEY + D -----> Bring Desktop to the top of other windows
+WINKEY + M -----> Minimize all windows
+WINKEY + E ------> Explorer
+WINKEY + F ------> Find
+WINKEY + Tab ----> Cycle opened program on taskbar
+WINKEY + R ------> Run command
+WINKEY + U ------> utility
+WINKEY + L ------> Lock the screen
+
+
+ctrl+A -------> Select all contents of the page.
+ctrl+B -------> bold
+ctrl+C -------> copy
+ctrl+D -------> open font preferences window
+ctrl+E -------> Aligns a line
+ctrl+F -------> Find
+ctrl+I -------> Italic
+ctrl+J -------> justify
+ctrl+K -------> insert hyperlink
+ctrl+L -------> left
+ctrl+M -------> indent the paragraph
+ctrl+N -------> New doc
+ctrl+O -------> Open
+ctrl+P -------> Print
+ctrl+R -------> right 
+ctrl+s -------> save the file
+ctrl+T -------> create hanging indentation
+ctrl+U -------> underline
+ctrl+V -------> paste
+ctrl+W -------> close the window
+ctrl+x -------> cut
+ctrl+Y -------> redo
+ctrl+Z -------> undo
+
+
+
+
+
+
+F1 -------> help
+F2 -------> save
+F3 -------> Shift+F3 ----> change the case
+F4 -------> Repeat the last action
+F5 -------> No action
+F6 -------> No action
+F7 -------> Spell checking
+F8 -------> No action
+F9 -------> No action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
